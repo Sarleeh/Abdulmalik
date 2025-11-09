@@ -55,8 +55,15 @@ li {
 .intro {
     display: flex;
     align-items: center;
-    gap: 30px;
+    gap: 10px;
 }
+
+
+.profile-pic{
+    width: 100px;
+    border-radius: 50%;
+}
+
 
 .intro img {
     width: 120px;
