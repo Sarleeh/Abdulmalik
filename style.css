@@ -52,7 +52,7 @@ li {
 }
 
 
-.intro {
+.header {
     display: flex;
     align-items: center;
     gap: 10px;
@@ -65,8 +65,9 @@ li {
 }
 
 
-.intro img {
+.intro-img {
     width: 120px;
+    height: 100px;
     border-radius: 50%;
 }
 
