@@ -52,3 +52,15 @@ li {
 }
 
 
+.intro {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.intro img {
+    width: 120px;
+    border-radius: 50%;
+}
+
+
